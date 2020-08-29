@@ -15,7 +15,13 @@
     local TypeFramework = require('TypeFramework') --> imports TypeFramework
     TypeFramework:Load() --> load all functions
 
+    TypeFramework:NewType('Test') --> create new data type
+
+    Test('XYZ', 10) --> or Test.new()!
+    --> any custom data type can have any value
+
     function main() --> the main function
+      
       process.utils.log('Hello, world!') --> custom print
     end
 
