@@ -20,9 +20,6 @@
     end
 
     TypeFramework:Init() --> initializes all functions, and another things!
-
-  Note: ALL the default lua functions is working on TypeFramework! You can use some functions of TypeFramework, but using another
-  lua functions!
 ]]
 
 require('lfs')
