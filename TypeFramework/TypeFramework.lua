@@ -2,7 +2,7 @@
   @name TypeFramework
     @author univb (twitter: @yeaimunivb)
     @since August 21, 2020
-    @version ALPHA 0.0.1
+    @version 0.0.1
     
     @desc
       TypeFramework is a Lua framework with custom functions, object type system, variable type system and more things!
