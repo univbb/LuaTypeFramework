@@ -1,5 +1,5 @@
 # LuaTypeFramework
-TypeFramework is a Lua Framework that have some custom functions, based on C++/C functions!
+TypeFramework is a Lua Framework that have some custom functions, based on C++/C/TypeScript functions!
 
 Here goes the skeleton of a Lua TypeFramework code:
 ```lua
