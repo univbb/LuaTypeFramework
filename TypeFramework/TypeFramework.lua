@@ -5,7 +5,7 @@
     @version 0.0.1
     
     @desc
-      TypeFramework is a Lua framework with custom functions based on C++/C and custom OOP system
+      TypeFramework is a framework that helps you to have a more organized code, and more beuatiful with functionalities that the pure Lua don't have!
 ]]
 
 --[[
