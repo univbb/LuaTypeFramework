@@ -1,6 +1,7 @@
 # LuaTypeFramework
 TypeFramework is a framework that helps you to have a more organized code, and more beautiful with functionalities that the pure Lua don't have!
-\nBased on C/C++ syntax
+
+Based on C/C++ syntax
 
 Here goes the skeleton of a Lua TypeFramework code:
 ```lua
