@@ -2,7 +2,7 @@
   @name util.lua
   @author univb
   @since September 30, 2020
-  @desc A library based on "stdio.h" on lua
+  @desc A library based on "stdio.h" for "TypeFramework" on lua
 
   @version 0.0.1
 ]]
