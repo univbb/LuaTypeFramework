@@ -1,14 +1,12 @@
 # LuaTypeFramework
-TypeFramework is a framework that helps you to have a more organized code, and more beautiful with functionalities that the pure Lua don't have!
-
-Based on C/C++ syntax
+TypeFramework are a C++/C based syntax. It's a nice option if you like these languages
 
 Here goes the skeleton of a Lua TypeFramework code:
 ```lua
 local TypeFramework = require('TypeFramework')
 TypeFramework:Load()
 
-LoadPackage('util.lua') -- Load "util.lua", is basically the "stdio.h" of Lua // not finished yet, future updates upcoming
+LoadPackage('util.lua') -- Load "util.lua", a TypeFramework library
 
 function main()
   printf('Hello, world!')
